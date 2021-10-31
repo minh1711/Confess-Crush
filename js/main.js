@@ -35,7 +35,7 @@ function firstQuestion() {
         imageUrl: 'img/logi.gif',
         imageWidth: 300,
         imageHeight: 300,
-        background: '#fff url("img/https://github.com/minh1711/Confess-Crush/blob/main/img/images.jpg")',
+        background: '#fff url("img/iput-pg.jpg")',
         imageAlt: 'Custom image',
         confirmButtonText: CONFIG.btnIntro
     }).then(function() {
